@@ -1,6 +1,6 @@
 {
   "name": "@sphinx-software/fusion-nunjucks",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Nunjucks View Engine for fusion",
   "main": "index.js",
   "scripts": {
